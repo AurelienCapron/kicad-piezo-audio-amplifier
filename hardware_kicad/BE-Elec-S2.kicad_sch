@@ -1,0 +1,102 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "6639913b-444b-494e-b800-7f592166cf8d")
+	(paper "User" 132.994 102.006)
+	(title_block
+		(title "BE d'Elec - Semestre 2")
+		(company "Grenoble-Inp Phelma")
+	)
+	(lib_symbols)
+	(sheet
+		(at 25.4 25.4)
+		(size 36.83 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-000061d818bb")
+		(property "Sheetname" "Partie-1"
+			(at 25.4 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Partie-1.kicad_sch"
+			(at 25.4 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BE-Elec-S2"
+				(path "/6639913b-444b-494e-b800-7f592166cf8d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 64.77 25.4)
+		(size 35.56 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-000061d81993")
+		(property "Sheetname" "Partie-2"
+			(at 64.77 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Partie-2.kicad_sch"
+			(at 64.77 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BE-Elec-S2"
+				(path "/6639913b-444b-494e-b800-7f592166cf8d"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
